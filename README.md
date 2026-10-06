@@ -34,7 +34,11 @@ workspace, including profile details, saved homes, transaction documents,
 messages, and signing evidence. Authorized tools can update those records and
 send buyer-approved transaction emails through Ohvii. Ohvii uses service
 providers described in its [privacy policy](https://ohvii.com/privacy).
-User-requested research may also use Claude's own available tools.
+At the buyer's request, the skill may also use Claude's available search,
+browser, calendar, scheduling and connected email tools. Those services receive
+the relevant search queries, calendar details, or approved email recipients,
+content and attachments. The buyer chooses the sending account and approves
+delivery; those services apply their own privacy policies.
 
 Consequential actions keep Ohvii's review, approval, signing, and delivery
 requirements. A prepared draft is not a sent message or signed contract.
