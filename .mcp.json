@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ohvii": {
+      "type": "http",
+      "url": "https://ohvii.com/api/mcp"
+    }
+  }
+}

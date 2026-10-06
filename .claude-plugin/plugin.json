@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ohvii",
+  "displayName": "Ohvii",
+  "version": "1.0.0",
+  "description": "Find homes with your AI, then use Ohvii to research a California home and carry the purchase from listing to close.",
+  "author": {
+    "name": "Ohvii"
+  },
+  "homepage": "https://ohvii.com",
+  "keywords": [
+    "mcp",
+    "oauth",
+    "real-estate",
+    "home-buying",
+    "offers",
+    "california"
+  ],
+  "defaultEnabled": false,
+  "privacyPolicyUrl": "https://ohvii.com/privacy"
+}

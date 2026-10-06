@@ -1,0 +1,98 @@
+OHVII PLUGIN LICENSE
+Version 1.0 — October 6, 2026
+
+Copyright (c) 2026 Ohvii LLC. All rights reserved except as expressly granted
+below. This is a proprietary license, not an open-source license.
+
+1. Scope and ownership
+
+This license covers the Ohvii-authored files in this plugin folder, including
+its configuration, skills, workflow instructions, documentation and bundled
+assets (the "Plugin"). Ohvii LLC ("Ohvii") retains ownership of the Plugin
+and its intellectual property. Receiving or viewing a copy does not transfer
+ownership or grant rights beyond this license.
+
+This license does not cover or grant rights to Ohvii's application or backend
+source code, hosted services, databases, customer data, credentials, or other
+materials outside this plugin folder. Separately identified third-party
+materials remain subject to their own licenses. This license does not claim
+ownership of user inputs, user documents or transaction outputs, or impose
+these Plugin restrictions on them.
+
+2. Permission to use the Plugin
+
+Subject to this license, Ohvii grants you a non-exclusive, worldwide,
+royalty-free license to download, install, execute and use the Plugin solely
+to access and use Ohvii services through compatible AI applications. This
+permission includes personal and internal business use, necessary installation
+and backup copies, and configuration changes needed to connect your authorized
+account. It includes allowing your chosen AI application to load and process
+the Plugin's instructions for that purpose.
+
+Access to Ohvii services remains subject to the applicable service terms,
+account permissions and charges. This license does not grant free service
+access or permission to bypass authentication, approval, signing or delivery
+requirements.
+
+3. Distribution and platform operation
+
+Ohvii authorizes operators of directories, repositories and compatible AI
+applications through which Ohvii makes the Plugin available to inspect, test,
+scan, host, cache, reproduce and distribute the unmodified Plugin as needed
+to review, list, install, update and operate it for the use permitted above.
+Those operators may use necessary service providers for those purposes and
+display the included documentation and branding to identify and present the
+integration. Distributed copies must retain this license and copyright notices.
+
+This license does not limit rights Ohvii separately grants a platform under
+its applicable directory or hosting terms, including Anthropic's Software
+Directory Terms. Public hosting on GitHub also permits viewing and forking
+to the extent granted by the applicable GitHub terms. Those permissions do
+not themselves authorize uses beyond those terms and this license.
+
+4. Restrictions and reserved rights
+
+Except as expressly permitted above, separately authorized by Ohvii in
+writing, or required by applicable law, you may not:
+
+- Copy, modify, adapt, translate or create derivative works of the Plugin.
+- Redistribute, publish, sublicense, rent, sell or repackage the Plugin or
+  any substantial portion of it, including its workflow instructions.
+- Incorporate the Plugin or its protected content into another product,
+  service or workflow, or use it independently of Ohvii services.
+- Remove ownership or license notices, or misrepresent the origin of the
+  Plugin or an altered copy.
+
+No general trademark license is granted. Ohvii names, logos and branding may
+be displayed only as included for the permitted integration and platform
+purposes, or as otherwise allowed by law. They may not be used to imply
+endorsement of another product or service.
+
+All rights not expressly granted are reserved. Nothing in this license
+claims exclusive rights over general ideas, facts or methods, or restricts
+rights that applicable law does not allow a license to restrict.
+
+5. Warranty and liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE PLUGIN IS PROVIDED
+"AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+OHVII IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR
+PUNITIVE DAMAGES, OR LOSS OF PROFITS, DATA OR BUSINESS, ARISING FROM THE
+PLUGIN OR ITS USE. THESE EXCLUSIONS DO NOT LIMIT LIABILITY OR CONSUMER
+RIGHTS THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED.
+
+6. Termination and other terms
+
+Your permissions under this license terminate if you materially breach its
+conditions. On termination, stop using and distributing the Plugin and
+delete copies under your control, except copies required by law or retained
+solely for compliance records. This does not require deletion of user data,
+transaction documents or outputs. Ownership, reserved rights, disclaimers
+and liability limits survive termination.
+
+If a provision is unenforceable, the remaining provisions continue in effect
+to the extent permitted by law. This license does not override separately
+applicable service agreements or third-party licenses.
+
+For permissions beyond this license, contact info@ohvii.com.
