@@ -1,6 +1,8 @@
 # Ohvii
 
-Buy a California home through the AI you already use. Research homes, compare sales and review disclosures, then prepare offers and counters. Generate purchase agreements, addenda and repair requests, and track deadlines with guidance through closing. You choose the terms, review documents, sign securely and approve delivery.
+<!-- approved-about:start -->
+Buy a California home through the AI you already use. Research homes, compare sales and review disclosures, then prepare offers and counters. Generate purchase agreements, addenda and repair requests, and track deadlines with guidance through closing. You choose the terms, review documents, sign securely and approve delivery. Requires a free Ohvii account.
+<!-- approved-about:end -->
 
 Ohvii supports self-represented buyers in California. A free Ohvii account is required. Ordinary third-party homebuying costs still apply.
 
@@ -18,9 +20,14 @@ Supported surfaces and installation steps are described in the
 
 ## Try it
 
-- “Show my saved homes, compare the available nearby sales, and explain what still needs verification.”
-- “Help me prepare an offer for my saved home. Show the terms and unresolved choices before asking for my approval.”
-- “Review my transaction documents and deadlines, explain the next buyer decision, and identify any missing information.”
+<!-- approved-prompts:start -->
+- “Help me find homes that fit my budget and what I’m looking for.”
+- “Compare recent sales so I can decide what to offer for this home.”
+- “Review this home’s disclosures, explain the risks, and help me plan inspections or repair requests.”
+- “Help me prepare an offer for this home.”
+- “Help me evaluate this counteroffer and prepare a response.”
+- “What do I need to complete before closing, and what’s due next?”
+<!-- approved-prompts:end -->
 
 Claude's available search and browser capabilities help with home discovery.
 Ohvii supplies the buyer workspace, saved property research, document tools,
